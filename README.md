@@ -60,6 +60,10 @@ $ git push -u origin master
 ```
 Git might ask for your account details, and then will upload your project.
 
+## Installation
+
+Please read [INSTALLATION.md](INSTALLATION.md) for dependencies, equipment, and instructions on getting this project running.
+
 ## Built With
 
 * [Markdown](https://en.wikipedia.org/wiki/Markdown) - Text formatting
